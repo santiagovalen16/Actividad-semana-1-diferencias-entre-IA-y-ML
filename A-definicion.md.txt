@@ -20,3 +20,4 @@ Ejemplo: un sistema de ML puede aprender a clasificar correos como *spam* o *no 
 ### Fuentes
 Chen, M. (2024, 25 noviembre). What is machine learning? https://www.oracle.com/latam/artificial-intelligence/machine-learning/what-is-machine-learning/
 Qué es la Inteligencia Artificial | Plan de Recuperación, Transformación y Resiliencia Gobierno de España. (s. f.). https://planderecuperacion.gob.es/noticias/que-es-inteligencia-artificial-ia-prtr
+¿Qué es la IA? - Explicación de la inteligencia artificial - AWS. (s. f.). Amazon Web Services, Inc. https://aws.amazon.com/es/what-is/artificial-intelligence/
