@@ -18,3 +18,11 @@ Relación entre ambos:
 -No toda IA usa ML 
 -No todo ML es IA completa (algunos son solo estadística avanzada)
 -La IA es el objetivo final, el ML es una de las herramientas principales para alcanzarlo.
+
+
+Rerencias bibliograficas:
+
+-Russell, S., & Norvig, P. (2020). Artificial Intelligence: A Modern Approach (4th ed.). Pearson
+-Bishop, C. M. (2006). Pattern Recognition and Machine Learning. Springer.
+- Some studies in machine learning using the game of checkers. IBM
+-Distill.pub - pagina web
