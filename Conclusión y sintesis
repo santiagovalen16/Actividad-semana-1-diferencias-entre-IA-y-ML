@@ -1,0 +1,22 @@
+Conclusión y sintesis.
+
+En conclusion la IA y el ML representan una evolucion tecnologica que transforma la forma en que interactuamos
+con la informacion y resolvemos problemas complejos. Mientras la IA abarca la vision global de crear sistemas con
+capacidades semejantes a las humanas, el ML constituye una de sus herramientas mas poderosas para lograrlo,
+al permitir que las maquinas aprendan y se adapten de manera autonoma.
+
+Sintesis
+
+La IA es un campo amplio que busca simular capacidades cognitivas humanas como el razonamiento, la toma de decisiones,
+la percepcion y el procesamiento del lenguaje. Dentro de este campo, el ML surge como una subdisciplina
+enfocada en el desarrollo de algoritmos que aprenden automaticamente a partir de datos.
+
+  Existen diferentes tipos de ML
+
+- Supervisado: Aprende con datos etiquetados para hacer predicciones precisas.
+- No supervisado: Descubre patrones y agrupaciones sin datos categorizados.
+- Semi-supervisado: Combina pocos datos etiquetados con muchos no etiquetados para mejorar el aprendizaje.
+- Por esfuerzo: Aprende mediante recompensas y penalizaciones en procesos de decisión.
+
+Cada tipo tiene sus ventajas y desventajas, pero al combinarlas permiten crear aplicaciones en campos
+tan diversos como la medicina, la automatizacion y el análisi de datos junto con la robotica, etc.
