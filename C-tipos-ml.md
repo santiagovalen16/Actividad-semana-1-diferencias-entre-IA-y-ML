@@ -61,3 +61,77 @@
     3. Tiene una interpretación variante, los patrones encontrados pueden no tener un resultado correcto si no tenemos un contexto específico.
 
     4. Tiene poca credibilidad o peso que lo respalde ya que el propio algoritmo puede dar resultados distintos según las variables que se le dé o pida.
+
+## 3. ML de Aprendizaje Semi-Supervisado "Semi-supervised Learning"
+
+### Qué es:
+    El aprendizaje Semi-Supervisado es un modelo en el cual se le entrega un porcentaje bajo de datos etiquetados y un gran volumen de datos sin etiquetar.
+    
+### Qué conseguimos con esto:
+    Este modelo aprende a etiquetar de forma autónoma y la única ayuda que se le otorga es entregarle unos pocos datos etiquetados.
+
+### Ejemplo de esto:
+    Con este modelo podemos realizar diferentes cosas tales como la clasificación de documentos, el
+    reconocimiento de imágenes que contengan pocas etiquetas y el análisis dentro de las redes sociales.
+
+## Ventajas y Desventajas
+
+### Ventajas
+    1. Podemos reducir el tiempo y el costo de etiquetar un gran volumen o tamaño de datos.
+
+    2. Permite que no se aparten datos ya que el modelo comienza a reconocer patrones entre los datos no etiquetados, evitando que haya ajustes innecesarios.
+
+    3. Podemos mejorar el rendimiento con una mayor precisión en comparación a un modelo totalmente no supervisado.
+
+    4. Podemos utilizar y trabajar grandes volúmenes de datos no etiquetados.
+
+### Desventajas
+    1. Tiene más dificultad al momento de entrenarlo, pero esta dificultad solo se presenta al comienzo.
+
+    2. Se depende mucho de la calidad de los datos no etiquetados, ya que si contienen ruido o errores, pueden dificultar y arruinar el aprendizaje.
+
+    3. Tiene el riesgo de que se propaguen errores si al comienzo se le da datos mal etiquetados; estos errores pueden expandirse en el entrenamiento.
+
+    4. Se dificulta su evaluación al tener pocos datos etiquetados, por lo que no se logra medir correctamente el rendimiento del modelo.
+
+ ## 4. ML de Aprendizaje Reforzado "Reinforcement Learning"
+
+### Qué es:
+    El Aprendizaje Reforzado es un modelo que aprende tomando decisiones y recibiendo recompensas o penalizaciones por sus respuestas.
+    
+### Qué conseguimos con esto:
+    Este modelo aprende a optimizar las decisiones a largo plazo con tal de expandir su recompensa de forma acumulada.
+
+### Ejemplo de esto:
+    Este modelo está presente en la automatización y en los videojuegos de estrategia como "Empire Earth o Age of Empires".
+    Vehículos autónomos y en la robótica.
+
+## Ventajas y Desventajas
+
+### Ventajas
+    1. El agente o modelo aprende directamente de la experiencia de prueba y error.
+
+    2. El modelo tiene un aprendizaje continuo, mejorando indefinidamente siempre que siga interactuando con el entorno.
+
+    3. El modelo puede desarrollar habilidades complejas a partir de reglas simples. Ejemplo de esto son los robots que aprenden a caminar desde cero.
+
+    4. Se adapta con gran facilidad cuando se le otorga nueva información.
+
+### Desventajas
+    1. El modelo depende del diseño en el que sea desplegado; si es simulado o en entornos no realistas, el aprendizaje no será el mismo en el mundo real.
+
+    2. Si las consecuencias de una mala decisión llegan después de mucho tiempo de haberse realizado la acción, será muy difícil que el agente aprenda y entienda correctamente.
+
+    3. El modelo necesita una retroalimentación adecuada, ya que si las recompensas están mal diseñadas, el modelo puede aprender comportamientos no deseados.
+
+    4. Es difícil poder transferir lo aprendido en un entorno, ya que no siempre funciona en entornos distintos.
+
+## Referencias
+
+- Introducción a Inteligencia Artificial [Video]. (s.f.). YouTube. https://www.youtube.com/watch?v=CjdusCm73p0&t=745s
+
+- Machine Learning vs Artificial Intelligence … [Video]. (s.f.). YouTube. https://www.youtube.com/watch?v=FMkxSsfvMI4
+
+- IBM. (s.f.). ¿Qué es machine learning? IBM Think. https://www.ibm.com/mx-es/think/topics/machine-learning
+
+- China, C. R. (20 de diciembre de 2023). Cinco tipos de machine learning que conviene conocer. IBM Think. https://www.ibm.com/es-es/think/topics/machine-learning-types       
