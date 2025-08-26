@@ -44,3 +44,29 @@ DataFrame creado:
 2  Marta    35    Sevilla
 3  Pedro    40   Valencia
 
+---
+
+## Ejemplo 2: Operaciones con columnas en un DataFrame
+
+### Código en Python
+import pandas as pd
+
+# Crear un DataFrame con productos, precios y cantidades
+df = pd.DataFrame({
+    "Producto": ["Manzana", "Pera", "Mango"],
+    "Precio": [1000, 1200, 1500],
+    "Cantidad": [3, 2, 5]
+})
+
+# Crear una nueva columna "Total" multiplicando Precio * Cantidad
+df["Total"] = df["Precio"] * df["Cantidad"]
+
+print("DataFrame con columna Total:")
+print(df)
+
+DataFrame con columna Total:
+  Producto  Precio  Cantidad  Total
+0  Manzana    1000         3   3000
+1     Pera    1200         2   2400
+2    Mango    1500         5   7500
+
