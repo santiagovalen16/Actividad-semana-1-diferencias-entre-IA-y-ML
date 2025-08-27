@@ -1,4 +1,3 @@
-
 # Ejemplos de Pandas: DataFrames y Series
 ## **Introducción**
 Pandas es una biblioteca fundamental de Python para la manipulación y análisis de datos. Proporciona dos estructuras de datos principales: **Series** (arreglos unidimensionales) y **DataFrames** (estructuras bidimensionales tipo tablas).
@@ -78,3 +77,8 @@ DataFrame con columna Total:
 ## Ejemplo con pantallazo
 
 Aquí vemos el resultado de la ejecución:
+
+![Pantallazo del DataFrame](https://raw.githubusercontent.com/santiagovalen16/Actividad-semana-1-diferencias-entre-IA-y-ML/15cc840a03f9a4dd7bc6c891cfe7bb810762e45f/Captura%20de%20pantalla%202025-08-26%20212003.png)
+
+![Pantallazo del DataFrame](https://raw.githubusercontent.com/santiagovalen16/Actividad-semana-1-diferencias-entre-IA-y-ML/15cc840a03f9a4dd7bc6c891cfe7bb810762e45f/Captura%20de%20pantalla%202025-08-26%20212051.png)
+
