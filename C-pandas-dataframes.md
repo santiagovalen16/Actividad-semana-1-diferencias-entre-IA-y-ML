@@ -1,12 +1,11 @@
-
 # Ejemplos de Pandas: DataFrames y Series
 ## **Introducción**
 Pandas es una biblioteca fundamental de Python para la manipulación y análisis de datos. Proporciona dos estructuras de datos principales: **Series** (arreglos unidimensionales) y **DataFrames** (estructuras bidimensionales tipo tablas).
 
 ## Ejemplo 1: Creación de Series y DataFrames desde diccionarios
 
-### **Código en Python**
-```
+### **Código en Python:**
+```python
 import pandas as pd
 
 # Crear una Serie a partir de una lista
@@ -26,9 +25,8 @@ df = pd.DataFrame(datos)
 print("\nDataFrame creado:")
 print(df)
 ```
----
 
-#Resultado
+### Resultado
 ```
 Serie de Edades:
 0    25
@@ -50,8 +48,8 @@ DataFrame creado:
 
 ## Ejemplo 2: Operaciones con columnas en un DataFrame
 
-### Código en Python
-```
+### Código en Python:
+```python
 import pandas as pd
 
 # Crear un DataFrame con productos, precios y cantidades
@@ -67,8 +65,7 @@ df["Total"] = df["Precio"] * df["Cantidad"]
 print("DataFrame con columna Total:")
 print(df)
 ```
----
-#Resultado
+### Resultado
 ```
 DataFrame con columna Total:
   Producto  Precio  Cantidad  Total
@@ -76,3 +73,10 @@ DataFrame con columna Total:
 1     Pera    1200         2   2400
 2    Mango    1500         5   7500
 ```
+---
+## Ejemplo con pantallazo
+
+Aquí vemos el resultado de la ejecución:
+![Pantallazo del DataFrame](images/pantallazo1.png)
+![Pantallazo del DataFrame](images/pantallazo2.png)
+
