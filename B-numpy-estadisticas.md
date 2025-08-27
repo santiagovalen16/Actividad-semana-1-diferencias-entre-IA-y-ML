@@ -1,6 +1,6 @@
 # Datasheet: NumPy – Operaciones estadísticas y funciones avanzadas
 
-**Sección B – Elaborado por [Tu Nombre]**  
+**Sección B – Elaborado por Laura Bernal**  
 > Ejemplos ejecutados en Google Colab
 
 ---
