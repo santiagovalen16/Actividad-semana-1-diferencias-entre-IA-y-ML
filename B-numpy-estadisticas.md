@@ -132,8 +132,8 @@ print(inversa)
 - [Tutorial Google Colab](https://colab.research.google.com/)
 
 ----------
-# Evidencia con pantallazos de la ejecución del codigo en google colab
-**Aqui logramos ver los resultados obtenidos
+## Evidencia con pantallazos de la ejecución del codigo en google colab
+** Aqui logramos ver los resultados obtenidos
 
 --------
 
