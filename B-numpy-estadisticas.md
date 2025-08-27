@@ -133,7 +133,7 @@ print(inversa)
 
 ----------
 ## Evidencia con pantallazos de la ejecución del codigo en google colab
-** Aqui logramos ver los resultados obtenidos
+Aqui logramos ver los resultados obtenidos
 
 --------
 
