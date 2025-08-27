@@ -130,3 +130,11 @@ print(inversa)
 
 - [Documentación oficial de NumPy](https://numpy.org/doc/)
 - [Tutorial Google Colab](https://colab.research.google.com/)
+
+
+## Ejercicio Fotografia
+
+---
+
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/91017f07-927c-4ca2-9aad-c84de4a054ec" />
+---
