@@ -74,6 +74,31 @@ DataFrame con columna Total:
 2    Mango    1500         5   7500
 ```
 ---
+## Ejemplo 3: Ver primeras filas y tipos de datos
+```python
+# Primeras 2 filas del DataFrame
+print("Primeras filas:")
+print(df.head(2))
+
+# Tipos de datos de cada columna
+print("\nTipos de datos:")
+print(df.dtypes)
+```
+### Resultado
+```
+Primeras filas:
+  Producto  Precio  Cantidad  Total
+0  Manzana    1000         3   3000
+1     Pera    1200         2   2400
+
+Tipos de datos:
+Producto    object
+Precio       int64
+Cantidad     int64
+Total        int64
+dtype: object
+```
+---
 ## Ejemplo con pantallazo
 
 Aquí vemos el resultado de la ejecución:
