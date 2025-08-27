@@ -107,4 +107,3 @@ Aquí vemos el resultado de la ejecución:
 
 ![Pantallazo del DataFrame](https://raw.githubusercontent.com/santiagovalen16/Actividad-semana-1-diferencias-entre-IA-y-ML/15cc840a03f9a4dd7bc6c891cfe7bb810762e45f/Captura%20de%20pantalla%202025-08-26%20212051.png)
 
-
