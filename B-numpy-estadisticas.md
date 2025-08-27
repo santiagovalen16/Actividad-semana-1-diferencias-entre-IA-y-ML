@@ -130,3 +130,18 @@ print(inversa)
 
 - [Documentación oficial de NumPy](https://numpy.org/doc/)
 - [Tutorial Google Colab](https://colab.research.google.com/)
+
+----------
+
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/9f20d848-6d1b-4411-a74d-9b06acf0fb7f" />
+
+---------
+
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/9cb6db53-7466-426a-9540-23a8077db725" />
+
+--------
+
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/b1e10065-5769-4dfd-8469-6a01f9af2ef6" />
+
+----
+
