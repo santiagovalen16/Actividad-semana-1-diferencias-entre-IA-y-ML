@@ -6,7 +6,7 @@ Pandas es una biblioteca fundamental de Python para la manipulación y análisis
 ## Ejemplo 1: Creación de Series y DataFrames desde diccionarios
 
 ### **Código en Python:**
-```
+```python
 import pandas as pd
 
 # Crear una Serie a partir de una lista
@@ -50,7 +50,7 @@ DataFrame creado:
 ## Ejemplo 2: Operaciones con columnas en un DataFrame
 
 ### Código en Python:
-```
+```python
 import pandas as pd
 
 # Crear un DataFrame con productos, precios y cantidades
