@@ -1,6 +1,6 @@
 B-Diferencias
 
-##Alcance y definición :
+## Alcance y definición :
 ---
 La Inteligencia Artificial (IA) es un gran campo amplio que busca crear sistemas que simulen capacidades cognitivas humanas como razonamiento, comprensión textual,toma de decisiones, procesamiento de diferentes lenguajes y solucines de problemas.
 -Concepto más amplio que incluye múltiples disciplinas
@@ -27,4 +27,5 @@ Rerencias bibliograficas:
 - Some studies in machine learning using the game of checkers. IBM
 
 -Distill.pub - pagina web
+
 
