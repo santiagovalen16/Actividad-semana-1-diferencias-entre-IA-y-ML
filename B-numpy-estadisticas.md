@@ -132,6 +132,10 @@ print(inversa)
 - [Tutorial Google Colab](https://colab.research.google.com/)
 
 ----------
+# Evidencia con pantallazos de la ejecución del codigo en google colab
+**Aqui logramos ver los resultados obtenidos
+
+--------
 
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/9f20d848-6d1b-4411-a74d-9b06acf0fb7f" />
 
