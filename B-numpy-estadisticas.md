@@ -143,5 +143,5 @@ print(inversa)
 
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/b1e10065-5769-4dfd-8469-6a01f9af2ef6" />
 
-----
+------
 
